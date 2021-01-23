@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RegProje.PrjPcb]
+   Generated File[LM317.GTO]
+   Generated File[LM317.GTP]
+   Generated File[LM317.GTS]
+   Generated File[LM317.GTL]
+   Generated File[LM317.GBL]
+   Generated File[LM317.GBS]
+   Generated File[LM317.GM1]
+   Generated File[LM317.GM13]
+   Generated File[LM317.GM15]
+   Generated File[LM317.GKO]
+   Generated File[LM317.GPT]
+   Generated File[LM317.GPB]
+   Generated File[LM317.RUL]
+   Generated File[LM317.EXTREP]
+   Generated File[LM317.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 23:44:33 On 9.1.2021
